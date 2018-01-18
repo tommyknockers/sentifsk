@@ -1,0 +1,41 @@
+#Height 
+{"SEQ":"123456","CMD":"write","INDEX":"g_config_fl ying_limit_height_limit_enabled","VALUE":2}
+{"SEQ":"123456","CMD":"write","INDEX":"g_config_fl ying_limit_limit_height_abs_without_gps","VALUE":1 0000}
+{"SEQ":"123456","CMD":"write","INDEX":"g_config_fl ying_limit_limit_height_abs","VALUE":10000}
+{"SEQ":"123456","CMD":"write","INDEX":"g_config_fl ying_limit_limit_height_rel","VALUE":10000}
+
+#Sport Plus
+{"SEQ":"123456","CMD":"write","INDEX":"g_config_mo de_sport_cfg_tilt_atti_range","VALUE":50}
+{"SEQ":"123456","CMD":"write","INDEX":"g_config_mo de_sport_cfg_vert_vel_up","VALUE":10}
+{"SEQ":"123456","CMD":"write","INDEX":"g_config_mo de_sport_cfg_vert_vel_down","VALUE":-9}
+{"SEQ":"123456","CMD":"write","INDEX":"g_config_mo de_sport_cfg_vert_acc_up","VALUE":10}
+{"SEQ":"123456","CMD":"write","INDEX":"g_config_mo de_sport_cfg_vert_acc_down","VALUE":-9}
+
+GPS Plus
+{"SEQ":"123456","CMD":"write","INDEX":"g_config_mo de_normal_cfg_tilt_atti","VALUE":43}
+{"SEQ":"123456","CMD":"write","INDEX":"g_config_mo de_normal_cfg_vert_vel_up","VALUE":7}
+{"SEQ":"123456","CMD":"write","INDEX":"g_config_mo de_normal_cfg_vert_vel_down","VALUE":-6}
+{"SEQ":"123456","CMD":"write","INDEX":"g_config_mo de_normal_cfg_vert_acc_up","VALUE":7}
+{"SEQ":"123456","CMD":"write","INDEX":"g_config_mo de_normal_cfg_vert_acc_down","VALUE":-6}
+
+OA Plus
+{"SEQ":"123456","CMD":"write","INDEX":"g_config_co ntrol_avoid_atti_range","VALUE":23}
+{"SEQ":"123456","CMD":"write","INDEX":"g_config_av oid_obstacle_limit_cfg_safe_dis","VALUE":1.2}
+
+#SetBrakeSofter
+{"SEQ":"123456","CMD":"write","INDEX":"brake_sensi tive_gain","VALUE":80}
+
+#MaxSpeed
+{"SEQ":"123456","CMD":"write","INDEX":"g_config_fw _cfg_max_speed","VALUE":20}
+
+#Flylikeaeagle
+{"SEQ":"123456","CMD":"write","INDEX":"g_config_ai rport_limit_cfg_cfg_disable_airport_fly_limit","VA LUE":1}
+{"SEQ":"123456","CMD":"write","INDEX":"g_config_ai rport_limit_cfg_cfg_limit_data","VALUE":20250910}
+
+#SafeAutoLanding
+{"SEQ":"123456","CMD":"write","INDEX":"g_config_la nding_auto_landing_vel_L1","VALUE":0}
+{"SEQ":"123456","CMD":"write","INDEX":"g_config_la nding_auto_landing_vel_L2","VALUE":0}
+
+#NoWind Warnings
+{"SEQ":"123456","CMD":"write","INDEX":"g_config_ai r_est_big_wind_level","VALUE":30}
+{"SEQ":"123456","CMD":"write","INDEX":"g_config_ai r_est_big_wind_leve2","VALUE":30} 
